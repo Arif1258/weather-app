@@ -1,0 +1,11 @@
+.SearchBox{
+    text-align: center;
+}
+
+.info-box{
+    text-align: center;
+}
+.card-box{
+    display: flex;
+    justify-content: center;
+}
